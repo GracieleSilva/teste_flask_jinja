@@ -5,7 +5,7 @@
 
 
 ```bash
-git clone http://
+git clone http://https://github.com/GracieleSilva/teste_flask_jinja.git
 cd teste_flask_jinja
 
 virtualenv {nome Ambiente isolado} --system-site-packages
